@@ -15,12 +15,12 @@ function About() {
                         </div>
                         <div data-name="about-content" className="space-y-6">
                             <p className="text-base sm:text-lg text-gray-300">
-                                With over a decade of drumming experience, I've merged my passion for rhythm with the innovative world of Web3 technology. My journey spans from traditional percussion to digital music production.
+                                I've been drumming for as long as I can remember! Now, I'm mixing my love for music with the exciting world of Web3. From banging on real drums to making cool beats on my computer, my adventure is just getting started!
                             </p>
                             <div className="grid grid-cols-2 gap-4 sm:gap-6">
                                 <div className="glass-effect p-4 rounded-lg">
                                     <h3 className="font-bold mb-2 text-sm sm:text-base">Experience</h3>
-                                    <p>10+ Years</p>
+                                    <p>3+ Years</p>
                                 </div>
                                 <div className="glass-effect p-4 rounded-lg">
                                     <h3 className="font-bold mb-2 text-sm sm:text-base">Projects</h3>

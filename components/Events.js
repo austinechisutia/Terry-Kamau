@@ -3,7 +3,7 @@ function Events() {
         const events = [
             {
                 title: "Cyber Rhythm Festival",
-                date: "2024 Mar 15",
+                date: "2026 Mar 15",
                 location: "Digital Arena, Metaverse",
                 description: "A groundbreaking fusion of live drumming and digital art in the metaverse",
                 image: "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
@@ -11,7 +11,7 @@ function Events() {
             },
             {
                 title: "Web3 Music Summit",
-                date: "2024 Apr 20",
+                date: "2026 Apr 20",
                 location: "Tech Hub Convention Center",
                 description: "Leading the technical production of the largest Web3 music conference",
                 image: "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=600",
@@ -19,7 +19,7 @@ function Events() {
             },
             {
                 title: "NFT Rhythm Collection Launch",
-                date: "2024 May 5",
+                date: "2026 May 5",
                 location: "Virtual Gallery",
                 description: "Curating and directing the launch of exclusive drum pattern NFTs",
                 image: "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=600",
